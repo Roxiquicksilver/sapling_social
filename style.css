@@ -79,6 +79,7 @@ main {
   height: auto;
   width: 75%;
   margin: auto;
+  padding-bottom: 25px;
 }
 footer {
   grid-area: footer;
